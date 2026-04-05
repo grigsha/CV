@@ -4,10 +4,10 @@
 
 ## Repositories
 
-- [Weather Stylist Bot](https://github.com/grigsha/weather-stylist-bot) — Telegram-бот для подбора одежды по погоде с применением ML-модели
-- [Image Processor](https://github.com/grigsha/image-processor) — проект по применению фильтров к BMP-изображениям
-- [ML Homeworks](ССЫЛКА_НА_РЕПО_ML) — домашние задания и ноутбуки по машинному обучению
-- [Linear Algebra / Matrix Labs](https://github.com/grigsha/linalg_matrices_labs) — ноутбуки и лабораторные по матрицам
+- [Weather Stylist Bot](https://github.com/grigsha/weather-stylist-bot) — Telegram-бот для подбора одежды по погоде с применением ML-модели.
+- [Image Processor](https://github.com/grigsha/image-processor) — консольное приложение для применения фильтров к изображениям. Работает с 24-битным BMP без сжатия и без таблицы цветов. Тип используемого `DIB header` - `BITMAPINFOHEADER`.
+- [ML Homeworks](https://github.com/grigsha/machine-learning-1) — домашние задания и ноутбуки по машинному обучению.
+- [Linear Algebra / Matrix Labs](https://github.com/grigsha/linalg_matrices_labs) — ноутбуки по матрицам и ЛАиГ.
 
 ## Resume
 
