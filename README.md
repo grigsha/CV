@@ -9,7 +9,3 @@
 - [Taxi DWH Search](https://github.com/grigsha/taxi-dwh-search) — моя часть командного проекта по аналитике чатов таксистов: CDM-слой для поиска и фильтрации сообщений из сообществ таксистов, полнотекстовый поиск в PostgreSQL, `tsvector`, GIN-индекс и SQL-запросы для Superset.
 - [Image Processor](https://github.com/grigsha/image-processor) — консольное приложение для применения фильтров к изображениям. Работает с 24-битным BMP без сжатия и без таблицы цветов. Тип используемого `DIB header` - `BITMAPINFOHEADER`.
 - [Linear Algebra / Matrix Labs](https://github.com/grigsha/linalg_matrices_labs) — ноутбуки по основам матричных вычислений и ЛАиГ.
-
-## Resume
-
-- [Резюме](./ml_cv.pdf)
